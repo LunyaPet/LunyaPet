@@ -1,26 +1,22 @@
-## Hello, it is mldchan
+## haiii i'm lunya uwu :3
 
-Hi, I'm mldchan.I enjoy making content, like Akabot (a Discord bot), Astolfo Forge Mod (a Minecraft mod), and Astolfo Is Coming for You (a Windows program where Astolfo compliments you). Sometimes I make YouTube videos about projects and other content.
+haiii i'm lunya :3
 
-This is my GitHub mirror account. All of my code is mirrored here from https://code.mldchan.dev/ to [Codeberg](https://codeberg.org/mldchan), [git.gay](https://git.gay/mld/) and [this GitHub account](https://github.com/uwugrl).
-
-I got a website at [mldchan.dev](https://mldchan.dev/). Click `Projects` at the top and scroll down.  Click `Socials` at the top of the page to see my social accounts. Click `Miscellaneous` at the top of the page to see slightly different work.
+i make all sorts of things, from coding on this website to making videos on youtube! this account's activity has mostly moved to git.lunya.pet, with open registrations and with some projects having set up mirrors. i got a website at [lunya.pet](https://lunya.pet)! :3
 
 ## Find me
 
-- [Fediverse (@mld@social.mldchan.dev)](https://social.mldchan.dev/@mld)
-- [Codeberg (mldchan)](https://codeberg.org/mldchan)
-- [mldchan git (mld)](https://code.mldchan.dev/mld)
-- [YouTube (mldchan)](https://www.youtube.com/channel/UC7JMha1kjOS7gsJXwNtosNw)
+- [fedi (@Lunya@fedi.lunya.pet)](https://fedi.lunya.pet)
+- [Codeberg (LunyaUwU)](https://codeberg.org/LunyaUwU)
+- [git.lunya.pet (Lunya)](https://git.lunya.pet/Lunya)
+- [YouTube (Lunya :3)](https://www.youtube.com/channel/UC7JMha1kjOS7gsJXwNtosNw)
 
 ## Project list (Last updated 2025/2/4):
 
-- [Akabot](https://mldchan.dev/project/akabot) - A feature packed Discord bot.
-- [GirlSocial](https://mldchan.dev/project/girlsocial) - A new social network focused on inclusivity. (in development)
-- [Misskey Markovify RS](https://code.mldchan.dev/mld/misskey-markov-rs) - A Markov post generator written in pure Rust.
-- [Mon Bazou Mod List](https://mldchan.dev/project/monbazou/modlist) - A mod for Mon Bazou which adds a mod list and settings in the menu.
-- [AstolfOS](https://code.mldchan.dev/mld/AstolfOS/) - A script that converts your Linux distro to AstolfOS.
-- [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - A catgirl nonsense generator.
-- [uwurandom-rs](https://git.mldchan.dev/mld/uwurandom-rs/) - UwUrandom rewritten in Rust.
+- [akabot](https://mldchan.dev/project/akabot) - a discord bot with a lot of features, completely free and open source.
+- [misskey-markov-rs](https://git.lunya.pet/Lunya/misskey-markov-rs) - a bot that posts markovified posts on misskey. written entirely in rust.
+- [Mon Bazou mod list](https://lunya.pet/project/monbazou/modlist) - mon bazou mod that adds a fully working mod list in the menu, with settings and console.
+- [Catgirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - catgirl nonsense go brrrrrrrrrrrr ejgioejgkljsrgkljg >//////////< *paws at you* uwu :3
+- [uwurandom-rs](https://git.lunya.pet/Lunya/uwurandom-rs/) - UwUrandom rewritten in rust.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4GCSPN)
